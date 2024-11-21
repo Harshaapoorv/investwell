@@ -60,7 +60,7 @@ This is one way to run your app — you can also run it directly from within And
   </th>
   <tr>
     <p>1</p>
-    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/landing_page.png" />
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/landing_page.png" width="10" height="30"/>
     <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/Android%20Screenshots/landing_page.png" />
   </tr>
 </table>
