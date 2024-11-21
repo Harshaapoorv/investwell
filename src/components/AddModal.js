@@ -175,7 +175,7 @@ const getStyles = () =>
       paddingHorizontal: 16,
       paddingVertical: 16,
       flexDirection: 'row',
-      justifyContent: 'space-between',
+      justifyContent: 'flex-end',
       borderBottomColor: '#808080',
       borderBottomWidth: 1,
     },
