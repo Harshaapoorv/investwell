@@ -137,7 +137,7 @@ const getStyles = () =>
       display: 'flex',
       flex: 1,
       alignItems: 'center',
-      justifyContent: 'center',
+      marginTop: '90%',
     },
     modalView: {
       display: 'flex',
@@ -150,7 +150,7 @@ const getStyles = () =>
       paddingVertical: 12,
       borderRadius: 8,
       // marginBottom: '40%',
-      marginTop: '12%',
+      // marginTop: '12%',
       marginRight: '6%',
       backgroundColor: '#FFFFFF',
       shadowColor: '#000',

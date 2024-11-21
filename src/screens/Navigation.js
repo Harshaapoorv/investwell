@@ -22,7 +22,7 @@ const Navigation = () => {
           name="FundDetails"
           options={{
             headerStyle: {
-              height: '100%',
+              height: 70,
               backgroundColor: '#56DFDB',
             },
             headerBackTitle: null,
