@@ -105,3 +105,11 @@ This is one way to run your app — you can also run it directly from within And
     <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/invalid_pan.png" width="150" height="300"/>
     <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/Android%20Screenshots/invalid_pan.png" width="150" height="300"/>
 </div>
+
+<br>
+
+### Update Errors
+<div style={display: 'flex', flexDirection: 'row', padding: 8}>
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/update_errors.png" width="150" height="300"/>
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/Android%20Screenshots/update_errors.png" width="150" height="300"/>
+</div>
