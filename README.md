@@ -52,8 +52,7 @@ This is one way to run your app — you can also run it directly from within And
 
 #### Now the app is running successfully, you will be able to see a landing page where you can see an input field for Pan number
 <div style={display: 'flex', flexDirection: 'row'}>
-    <p>1</p>
-    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/landing_page.png" width="100" height="300"/>
-    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/Android%20Screenshots/landing_page.png" width="100" height="300"/>
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/landing_page.png" width="150" height="300"/>
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/Android%20Screenshots/landing_page.png" width="150" height="300"/>
 </div>
 
