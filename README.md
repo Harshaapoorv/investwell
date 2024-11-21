@@ -51,3 +51,16 @@ If everything is set up _correctly_, you should see your new app running in your
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
 #### Now the app is running successfully, you will be able to see a landing page where you can see an input field for Pan number
+
+<table>
+  <th>
+    <td>S. No</td>
+    <td>ios</td>
+  <td>android</td>
+  </th>
+  <tr>
+    <p>1</p>
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/landing_page.png" />
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/Android%20Screenshots/landing_page.png" />
+  </tr>
+</table>
