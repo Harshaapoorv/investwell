@@ -113,3 +113,24 @@ This is one way to run your app — you can also run it directly from within And
     <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/update_errors.png" width="150" height="300"/>
     <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/Android%20Screenshots/update_errors.png" width="150" height="300"/>
 </div>
+
+<br>
+
+### Dropdown
+<div style={display: 'flex', flexDirection: 'row', padding: 8}>
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/dropdown.png" width="150" height="300"/>
+</div>
+
+<br>
+
+### Amount
+<div style={display: 'flex', flexDirection: 'row', padding: 8}>
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/investment_amount.png" width="150" height="300"/>
+</div>
+
+<br>
+
+### Invalid pan update
+<div style={display: 'flex', flexDirection: 'row', padding: 8}>
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/invalid_pan_update.png" width="150" height="300"/>
+</div>
