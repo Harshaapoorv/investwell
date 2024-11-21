@@ -58,8 +58,22 @@ This is one way to run your app — you can also run it directly from within And
     <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/Android%20Screenshots/landing_page.png" width="150" height="300"/>
 </div>
 
+<br />
 ### Successful Funds
 <div style={display: 'flex', flexDirection: 'row', padding: 8}>
     <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/successful_funds.png" width="150" height="300"/>
     <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/Android%20Screenshots/successful.png" width="150" height="300"/>
+</div>
+
+<br />
+### Fund details
+<div style={display: 'flex', flexDirection: 'row', padding: 8}>
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/fund_detail.png" width="150" height="300"/>
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/Android%20Screenshots/detailed_investment.png" width="150" height="300"/>
+</div>
+
+### Note
+<div style={display: 'flex', flexDirection: 'row', padding: 8}>
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/iOS%20Screenshots/note.png" width="150" height="300"/>
+    <img src="https://github.com/Harshaapoorv/investwell-screenshots/blob/main/Android%20Screenshots/note.png" width="150" height="300"/>
 </div>
