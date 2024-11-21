@@ -1,0 +1,25 @@
+{
+  "dashboard": {
+    "title": "Invest Well",
+    "input": {
+      "label": "PAN Number",
+      "desc": "Example: XYZ1234567"
+    },
+    "noPan": "Enter your \nPAN Number \nto find your investments",
+    "errorMsg": "Failed to load investments",
+    "apiErrorMsg": "Failed to add investments"
+  },
+  "profile": {
+    "username": "Username",
+    "panNumber": "PAN Number"
+  },
+  "fundDetails": {
+    "fundcard": {
+      "desc": "Your current \ninvestment value is",
+      "name": "Investment name",
+      "type": "Investment type",
+      "amount": "Invested amount",
+      "date": "Invested date"
+    }
+  }
+}
